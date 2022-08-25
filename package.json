@@ -1,0 +1,10 @@
+{
+  "name": "p",
+  "version": "1.0.0",
+  "description": "My portfolio project",
+  "main": "index.js",
+  "repository": "https://github.com/athachai29/p.git",
+  "author": "Athachai Mala-ut <athachai@mycashback.co>",
+  "license": "MIT",
+  "private": true
+}
